@@ -10,7 +10,7 @@ The files used for the competition are *bankruptcy_Test_X.csv* and *bankruptcy_T
 **Gradient boosting classifier** and **neural net** are the most accurate algorithms in SAS EM for the following study
 
 ## Final model
-![alt text](SASComp/images/final model.jpg)
+![alt text](SASComp/images/final_model.jpg)
 
 ## Model Score
 Our model accuracy achieve a score of 0.79 with the high-performance neural net
